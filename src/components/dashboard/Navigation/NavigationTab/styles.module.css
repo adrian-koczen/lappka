@@ -1,0 +1,27 @@
+.container {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 13px;
+  align-items: center;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 28px;
+  margin-bottom: 20px;
+  height: 45px;
+  width: 214px;
+}
+
+.active {
+  background-color: #43be8d;
+  color: #ffffff;
+}
+
+.notActive {
+  color: #77838f;
+}
+
+.icon {
+  margin-right: 17px;
+}

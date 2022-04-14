@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "name": "Moniak",
+    "race": "Kundelek",
+    "info": [
+      {
+        "id": "el-id-0",
+        "key": "Wiek",
+        "value": "1 rok"
+      },
+      {
+        "id": "el-id-1",
+        "key": "Kolor",
+        "value": "Czarny"
+      },
+      {
+        "id": "el-id-2",
+        "key": "Waga",
+        "value": "1.2 kg"
+      },
+      {
+        "id": "el-id-3",
+        "key": "Sterylizacja",
+        "value": "Tak"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Moniak",
+    "race": "Kundelek",
+    "info": [
+      {
+        "id": "el-id-0",
+        "key": "Wiek",
+        "value": "1 rok"
+      },
+      {
+        "id": "el-id-1",
+        "key": "Kolor",
+        "value": "Czarny"
+      },
+      {
+        "id": "el-id-2",
+        "key": "Waga",
+        "value": "1.2 kg"
+      },
+      {
+        "id": "el-id-3",
+        "key": "Sterylizacja",
+        "value": "Tak"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Moniak",
+    "race": "Kundelek",
+    "info": [
+      {
+        "id": "el-id-0",
+        "key": "Wiek",
+        "value": "1 rok"
+      },
+      {
+        "id": "el-id-1",
+        "key": "Kolor",
+        "value": "Czarny"
+      },
+      {
+        "id": "el-id-2",
+        "key": "Waga",
+        "value": "1.2 kg"
+      },
+      {
+        "id": "el-id-3",
+        "key": "Sterylizacja",
+        "value": "Tak"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Moniak",
+    "race": "Kundelek",
+    "info": [
+      {
+        "id": "el-id-0",
+        "key": "Wiek",
+        "value": "1 rok"
+      },
+      {
+        "id": "el-id-1",
+        "key": "Kolor",
+        "value": "Czarny"
+      },
+      {
+        "id": "el-id-2",
+        "key": "Waga",
+        "value": "1.2 kg"
+      },
+      {
+        "id": "el-id-3",
+        "key": "Sterylizacja",
+        "value": "Tak"
+      }
+    ]
+  }
+]

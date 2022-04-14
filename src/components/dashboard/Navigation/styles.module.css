@@ -1,0 +1,56 @@
+.container {
+  width: 290px;
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.logoContainer {
+  display: flex;
+  flex-direction: row;
+  height: 115px;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #f4f7fe;
+}
+
+.logoText {
+  position: relative;
+  top: 18px;
+  left: -10px;
+  height: 26px;
+  width: 96px;
+}
+
+.logo {
+  width: 79px;
+  height: 78px;
+}
+
+/* Menu container */
+
+.menuContainer {
+  margin: 24px 0px;
+  padding: 0px 38px;
+}
+
+.logoutContainer {
+  padding: 0 38px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin-bottom: 58px;
+  cursor: pointer;
+}
+
+.logoutIcon {
+  margin-right: 17px;
+}
+
+.logoutText {
+  font-size: 16px;
+  font-weight: 500;
+  color: #77838f;
+}

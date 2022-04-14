@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #cccccc;
+  padding: 9px 22px;
+  border-radius: 12px;
+  justify-content: center;
+  align-items: center;
+}
+
+.key {
+  font-weight: 700;
+  font-size: 14px;
+  color: #616161;
+}
+
+.value {
+  font-size: 12px;
+  font-weight: 400;
+  color: #cccccc;
+}

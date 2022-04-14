@@ -1,0 +1,28 @@
+.container {
+  width: 100%;
+  overflow-y: scroll;
+  height: 100vh;
+}
+
+.wrapper {
+  padding-left: 32px;
+}
+
+.title {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  letter-spacing: 0.57px;
+}
+
+.titleContainer {
+  margin: 24px 0;
+}
+
+.dogsContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 100px;
+  row-gap: 70px;
+}

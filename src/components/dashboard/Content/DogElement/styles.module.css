@@ -1,0 +1,73 @@
+.container {
+  width: 455px;
+  height: 546px;
+  border-radius: 20px;
+}
+
+.dogImage {
+  width: 100%;
+  height: 312px;
+  border-radius: 20px 20px 0 0;
+}
+
+.titleContainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 25px;
+  align-items: center;
+}
+
+.imageContainer {
+  height: 312px;
+}
+
+.name {
+  font-size: 30px;
+  font-weight: 700;
+  color: #616161;
+}
+
+.race {
+  font-weight: 400;
+  font-size: 16px;
+  color: #616161;
+}
+
+.dogNameAndRaseContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 7px;
+}
+
+.informationContainer {
+  display: flex;
+  margin: 15px 25px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.bottomPart {
+  background-color: #ffffff;
+  height: 234px;
+  border-radius: 0 0 20px 20px;
+}
+
+.buttonContainer {
+  margin: 0 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.button {
+  background-color: #0de18c;
+  height: 52px;
+  width: 213px;
+  border: none;
+  border-radius: 16px;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+}
